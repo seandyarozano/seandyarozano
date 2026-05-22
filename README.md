@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, saya [Seandy A. Rozano] 👋
+# Hi there, saya Seandy A. Rozano 👋
 
 ### IT Practitioner · Tech Content Creator · Network Engineer
 
@@ -20,7 +20,7 @@
 ## 🙋‍♂️ Tentang Saya
 
 ```yaml
-name       : "[Seandy A. Rozano]"
+name       : "Seandy A. Rozano"
 role       : "IT Practitioner & Tech Content Creator"
 location   : "Cirebon, West Java, Indonesia 🇮🇩"
 education  : "Telkom University"
