@@ -8,8 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seandyarozano)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seandyarozano)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@seandyarozano)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@seandyarrozza)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seandyarozano)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=seandyarozano&color=CC0000&style=for-the-badge&label=Profile+Views)
 
@@ -20,7 +20,7 @@
 ## 🙋‍♂️ Tentang Saya
 
 ```yaml
-name       : "Seandy A. Rozano"
+name       : "[Nama Kamu]"
 role       : "IT Practitioner & Tech Content Creator"
 location   : "Cirebon, West Java, Indonesia 🇮🇩"
 education  : "Telkom University"
@@ -33,13 +33,18 @@ tagline    : "Teknologi bukan untuk orang IT saja."
 
 ## 📌 Konten minggu ini
 
-> **Tema: Networking — dari jaringan komputer ke kehidupan nyata**
+> **Minggu 1 · Tema: Networking — dari jaringan komputer ke kehidupan nyata**
 
-🔗 **[Pelajaran Networking dari Kehidupan Sehari-hari](https://linkedin.com/in/seandyarozano)**
-— Kenapa routing table itu mirip buku tamu hajatan, dan 3 pelajaran IT yang berlaku di kehidupan nyata.
+🔵 **Senin** · LinkedIn
+**[Pelajaran Networking dari Kehidupan Sehari-hari](https://linkedin.com/in/seandyarozano)**
+— Routing table, TCP handshake, packet loss: 3 pelajaran IT yang berlaku di kehidupan nyata.
 
-📱 **[TikTok: POV datang ke hajatan dan gak kenal siapapun](https://tiktok.com/@seandyarozano)**
-— Itulah komputer tanpa routing table. Video 60 detik.
+🔴 **Kamis** · LinkedIn
+**[Cloudflare Down 5,5 Jam — Bukan Di-hack, Satu File Membengkak](https://linkedin.com/in/seandyarozano)**
+— Satu kesalahan konfigurasi kecil mengganggu 2,4 miliar pengguna global. November 2025.
+
+📸 **Rabu & Kamis** · Instagram
+— Carousel "Pelajaran Networking" 5 slide + IG Story poll dari post LinkedIn
 
 ---
 
@@ -58,7 +63,7 @@ tagline    : "Teknologi bukan untuk orang IT saja."
 
 ## 🚀 Repo unggulan
 
-### 📁 [it-insights-notes](https://github.com/seandyarozano/it-insights-notes)
+### 📁 [it-insights-notes](https://github.com/username-kamu/it-insights-notes)
 > Catatan teknis IT dalam bahasa sederhana — untuk siapa saja yang ingin paham dunia teknologi tanpa jargon berlebihan.
 
 ```
@@ -106,7 +111,8 @@ it-insights-notes/
 **Content Creation**
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn_Content-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-![TikTok](https://img.shields.io/badge/TikTok_EduCreator-000000?style=flat-square&logo=tiktok&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram_Carousel-E4405F?style=flat-square&logo=instagram&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube_Tutorial-FF0000?style=flat-square&logo=youtube&logoColor=white)
 ![Canva](https://img.shields.io/badge/Infographic_Design-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ---
@@ -127,18 +133,30 @@ it-insights-notes/
 
 ## 📝 Tulisan terbaru di LinkedIn
 
-<!-- Ganti secara manual setiap minggu atau gunakan GitHub Actions untuk auto-update -->
+<!-- Update setiap Senin dengan konten baru minggu berjalan -->
 
-- 🌐 **[Pelajaran Networking dari Kehidupan Sehari-hari](https://linkedin.com/in/seandyarozano)** — Minggu ini
-- 🤖 *Coming soon: AI tidak menggantikan programmer, tapi...*
-- 💻 *Coming soon: Kenapa website lambat padahal internet kencang?*
+**Minggu 1 · Networking**
+- 🌐 **[Pelajaran Networking dari Kehidupan Sehari-hari](https://linkedin.com/in/seandyarozano)** — Senin, Minggu 1
+- ⚡ **[Cloudflare Down 5,5 Jam — Bukan Di-hack, Satu File Membengkak](https://linkedin.com/in/seandyarozano)** — Kamis, Minggu 1
+
+**Minggu 4 · Security & Karier IT**
+- 👨‍💻 **[Fresh Graduate IT vs Senior Developer — Bedanya Bukan Cuma Pengalaman](https://linkedin.com/in/seandyarozano)** — Minggu 4
+
+*Coming soon — Minggu 2: Website & SEO*
+- 💻 Mengapa website lambat padahal internet kencang?
+- 🔍 SEO bukan sulap, tapi sains
+
+*Coming soon — Minggu 3: AI & Produktivitas*
+- 🤖 AI tidak menggantikan programmer, tapi...
+- ⚡ Kebiasaan digital yang diam-diam menurunkan produktivitas
 
 ---
 
 ## 🎯 Saat ini saya sedang
 
-- 📚 Membangun **seri konten IT Insights** di LinkedIn, Instagram & TikTok
-- 🛠️ Mengisi repo **[it-insights-notes](https://github.com/seandyarozano/it-insights-notes)** setiap minggu
+- 📚 Membangun **seri konten IT Insights** di LinkedIn & Instagram — 4 tema: Networking · Web Dev · AI · Security
+- 🛠️ Mengisi repo **[it-insights-notes](https://github.com/seandyarozano/it-insights-notes)** setiap minggu — catatan teknis IT dalam bahasa sederhana
+- 🎬 Menyiapkan konten **YouTube** — tutorial IT untuk pemula dan fresh graduate
 - 🎓 Alumni **Institut Teknologi Telkom (Telkom University)** — Teknik Telekomunikasi
 - 🤝 Terbuka untuk **kolaborasi konten, diskusi IT, dan networking profesional**
 
@@ -154,6 +172,7 @@ Punya pertanyaan tentang IT yang ingin saya jelaskan? Atau mau kolaborasi konten
 
 [![LinkedIn DM](https://img.shields.io/badge/DM_di_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seandyarozano)
 [![Instagram DM](https://img.shields.io/badge/DM_di_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seandyarozano)
+[![GitHub](https://img.shields.io/badge/Lihat_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seandyarozano)
 
 </div>
 
