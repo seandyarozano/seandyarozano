@@ -20,7 +20,7 @@
 ## 🙋‍♂️ Tentang Saya
 
 ```yaml
-name       : "[Nama Kamu]"
+name       : "Seandy A. Rozano"
 role       : "IT Practitioner & Tech Content Creator"
 location   : "Cirebon, West Java, Indonesia 🇮🇩"
 education  : "Telkom University"
