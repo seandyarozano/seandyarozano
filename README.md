@@ -24,7 +24,7 @@ name       : "Seandy Arandiant Rozano"
 role       : "IT Practitioner & Tech Content Creator"
 location   : "Cirebon, West Java, Indonesia 🇮🇩"
 education  : "Telkom University"
-focus      : "Networking", "Web Dev", "AI", "SEO", "Digital Productivity"
+focus      : ["Networking", "Web Dev", "AI", "SEO", "Digital Productivity"]
 currently  : "Membangun personal branding IT melalui konten edukatif"
 tagline    : "Teknologi bukan untuk orang IT saja."
 ```
@@ -119,11 +119,11 @@ it-insights-notes/
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seandyarozano&show_icons=true&theme=default&hide_border=true&title_color=CC0000&icon_color=CC0000&text_color=333333&bg_color=ffffff)
+[![GitHub Stats](https://api.githubtrends.io/user/svg/seandyarozano/langs?time_range=one_year&theme=classic)](https://githubtrends.io)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seandyarozano&layout=compact&hide_border=true&title_color=CC0000&text_color=333333&bg_color=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=seandyarozano&theme=default&hide_border=true&ring=CC0000&fire=CC0000&currStreakLabel=CC0000&dates=555555&sideNums=333333&currStreakNum=CC0000)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=seandyarozano&theme=default&hide_border=true&ring=CC0000&fire=CC0000&currStreakLabel=CC0000)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seandyarozano&bg_color=ffffff&color=CC0000&line=CC0000&point=AA0000&area=true&hide_border=true)
 
 </div>
 
@@ -159,7 +159,7 @@ it-insights-notes/
 - ✍️ Menulis **artikel blog SEO** setiap minggu — target page one Google untuk keyword IT Indonesia
 - 🛠️ Mengisi repo **[it-insights-notes](https://github.com/seandyarozano/it-insights-notes)** setiap minggu — catatan teknis IT dalam bahasa sederhana
 - 🎬 Menyiapkan konten **YouTube** — tutorial IT untuk pemula dan fresh graduate
-- 🎓 Alumni **Institut Teknologi Telkom (Telkom University)** — Teknik Telekomunikasi
+- 🎓 Alumni / Mahasiswa **Telkom University** — Teknik Informatika / Sistem Informasi *(sesuaikan)*
 - 🤝 Terbuka untuk **kolaborasi konten, diskusi IT, dan networking profesional**
 
 ---
