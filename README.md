@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, saya Seandy A. Rozano 👋
+# Hi there, saya Seandy Arandiant Rozano 👋
 
 ### IT Practitioner · Tech Content Creator · Network Engineer
 
@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seandyarozano)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seandyarozano)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@seandyarrozza)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@seandyarozano)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seandyarozano)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=seandyarozano&color=CC0000&style=for-the-badge&label=Profile+Views)
@@ -20,11 +20,11 @@
 ## 🙋‍♂️ Tentang Saya
 
 ```yaml
-name       : "Seandy A. Rozano"
+name       : "Seandy Arandiant Rozano"
 role       : "IT Practitioner & Tech Content Creator"
 location   : "Cirebon, West Java, Indonesia 🇮🇩"
 education  : "Telkom University"
-focus      : ["Networking", "Web Dev", "AI", "SEO", "Digital Productivity"]
+focus      : "Networking", "Web Dev", "AI", "SEO", "Digital Productivity"
 currently  : "Membangun personal branding IT melalui konten edukatif"
 tagline    : "Teknologi bukan untuk orang IT saja."
 ```
@@ -33,18 +33,21 @@ tagline    : "Teknologi bukan untuk orang IT saja."
 
 ## 📌 Konten minggu ini
 
-> **Minggu 1 · Tema: Networking — dari jaringan komputer ke kehidupan nyata**
+> **Minggu 2 · Tema: Website & SEO — kenapa web lambat dan cara kerja mesin pencari**
 
 🔵 **Senin** · LinkedIn
-**[Pelajaran Networking dari Kehidupan Sehari-hari](https://linkedin.com/in/seandyarozano)**
-— Routing table, TCP handshake, packet loss: 3 pelajaran IT yang berlaku di kehidupan nyata.
+**[Mengapa Website Lambat Padahal Internet Sudah Kencang?](https://linkedin.com/in/seandyarozano)**
+— 3 lapisan kecepatan website: koneksi, server response, render time. Statistik 53% dan 7%.
 
 🔴 **Kamis** · LinkedIn
-**[Cloudflare Down 5,5 Jam — Bukan Di-hack, Satu File Membengkak](https://linkedin.com/in/seandyarozano)**
-— Satu kesalahan konfigurasi kecil mengganggu 2,4 miliar pengguna global. November 2025.
+**[SEO Bukan Sulap, Tapi Sains](https://linkedin.com/in/seandyarozano)**
+— Banyak yang bayar jutaan ke jasa SEO tanpa tahu yang dibeli. Ini cara kerja SEO yang sebenarnya.
 
 📸 **Rabu & Kamis** · Instagram
-— Carousel "Pelajaran Networking" 5 slide + IG Story poll dari post LinkedIn
+— Carousel "5 Alasan Website Lambat" + IG Story poll dari post LinkedIn
+
+✍️ **Sabtu** · Blog
+— Artikel SEO: "Kenapa Website Lambat?" + "SEO untuk Pemula: Panduan Lengkap dari Nol"
 
 ---
 
@@ -63,22 +66,17 @@ tagline    : "Teknologi bukan untuk orang IT saja."
 
 ## 🚀 Repo unggulan
 
-### 📁 [it-insights-notes](https://github.com/username-kamu/it-insights-notes)
+### 📁 [it-insights-notes](https://github.com/seandyarozano/it-insights-notes)
 > Catatan teknis IT dalam bahasa sederhana — untuk siapa saja yang ingin paham dunia teknologi tanpa jargon berlebihan.
 
 ```
 it-insights-notes/
 ├── networking/
-│   ├── routing-table-explained.md
-│   ├── dns-for-beginners.md
-│   └── tcp-handshake-analogy.md
-├── web-dev/
-│   ├── why-websites-are-slow.md
-│   └── seo-basics.md
-├── ai-tools/
-│   └── ai-for-it-practitioners.md
-└── productivity/
-    └── digital-habits-that-kill-focus.md
+│   ├── routing-table-explained.md   ✓
+│   └── dns-for-beginners.md         ✓
+└── web-dev/
+    ├── why-websites-are-slow.md     ✓
+    └── seo-basics.md                ✓
 ```
 
 ---
@@ -131,30 +129,34 @@ it-insights-notes/
 
 ---
 
-## 📝 Tulisan terbaru di LinkedIn
+## 📝 Konten yang sudah dipublish
 
 <!-- Update setiap Senin dengan konten baru minggu berjalan -->
 
-**Minggu 1 · Networking**
-- 🌐 **[Pelajaran Networking dari Kehidupan Sehari-hari](https://linkedin.com/in/seandyarozano)** — Senin, Minggu 1
-- ⚡ **[Cloudflare Down 5,5 Jam — Bukan Di-hack, Satu File Membengkak](https://linkedin.com/in/seandyarozano)** — Kamis, Minggu 1
+**Minggu 2 · Website & SEO** *(berjalan)*
+- 💻 **[Mengapa Website Lambat Padahal Internet Kencang?](https://linkedin.com/in/seandyarozano)** — Senin, Minggu 2
+- 🔍 **[SEO Bukan Sulap, Tapi Sains](https://linkedin.com/in/seandyarozano)** — Kamis, Minggu 2
 
-**Minggu 4 · Security & Karier IT**
-- 👨‍💻 **[Fresh Graduate IT vs Senior Developer — Bedanya Bukan Cuma Pengalaman](https://linkedin.com/in/seandyarozano)** — Minggu 4
-
-*Coming soon — Minggu 2: Website & SEO*
-- 💻 Mengapa website lambat padahal internet kencang?
-- 🔍 SEO bukan sulap, tapi sains
+**Minggu 1 · Networking** *(selesai)*
+- 🌐 **[Pelajaran Networking dari Kehidupan Sehari-hari](https://linkedin.com/in/seandyarozano)** — LinkedIn
+- ⚡ **[Cloudflare Down 5,5 Jam — Bukan Di-hack](https://linkedin.com/in/seandyarozano)** — LinkedIn
+- 📝 **[Routing Table Adalah: Pengertian, Fungsi, dan Cara Kerjanya](#)** — Blog
+- 📝 **[Penyebab Cloudflare Down 18 November 2025](#)** — Blog
 
 *Coming soon — Minggu 3: AI & Produktivitas*
 - 🤖 AI tidak menggantikan programmer, tapi...
 - ⚡ Kebiasaan digital yang diam-diam menurunkan produktivitas
+
+*Coming soon — Minggu 4: Security & Karier IT*
+- 🔐 Hal kecil di kantor yang menunjukkan infrastruktur IT buruk
+- 👨‍💻 Fresh Graduate IT vs Senior Developer
 
 ---
 
 ## 🎯 Saat ini saya sedang
 
 - 📚 Membangun **seri konten IT Insights** di LinkedIn & Instagram — 4 tema: Networking · Web Dev · AI · Security
+- ✍️ Menulis **artikel blog SEO** setiap minggu — target page one Google untuk keyword IT Indonesia
 - 🛠️ Mengisi repo **[it-insights-notes](https://github.com/seandyarozano/it-insights-notes)** setiap minggu — catatan teknis IT dalam bahasa sederhana
 - 🎬 Menyiapkan konten **YouTube** — tutorial IT untuk pemula dan fresh graduate
 - 🎓 Alumni **Institut Teknologi Telkom (Telkom University)** — Teknik Telekomunikasi
