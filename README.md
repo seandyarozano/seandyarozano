@@ -21,13 +21,13 @@
 ## 🙋‍♂️ Tentang Saya
 
 ```yaml
-name       : "Seandy Arandiant Rozano"
-role       : "IT Practitioner & Tech Content Creator"
-location   : "Cirebon, West Java, Indonesia 🇮🇩"
-education  : "Telkom University"
-focus      : "Networking", "Web Dev", "AI", "SEO", "Digital Productivity"
-currently  : "Membangun personal branding IT melalui konten edukatif"
-tagline    : "Teknologi bukan untuk orang IT saja."
+name       : Seandy Arandiant Rozano
+role       : IT Practitioner & Tech Content Creator
+location   : Cirebon, West Java, Indonesia 🇮🇩
+education  : Institut Teknologi Telkom - Telkom University
+focus      : Networking", "Web Dev", "AI", "SEO", "Digital Productivity
+currently  : Membangun personal branding IT melalui konten edukatif
+tagline    : Teknologi bukan untuk orang IT saja.
 ```
 
 ---
