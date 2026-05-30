@@ -33,21 +33,19 @@ tagline    : "Teknologi bukan untuk orang IT saja."
 
 ## 📌 Konten minggu ini
 
-> **Minggu 2 · Tema: Website & SEO — kenapa web lambat dan cara kerja mesin pencari**
+> **Minggu 3 · Tema: Cybersecurity — keamanan siber bukan hanya urusan IT department**
 
-🔵 **Senin** · LinkedIn
-**[Mengapa Website Lambat Padahal Internet Sudah Kencang?](https://linkedin.com/in/seandyarozano)**
-— 3 lapisan kecepatan website: koneksi, server response, render time. Statistik 53% dan 7%.
+🔵 **LinkedIn** · Post + Infografis
+— Cybersecurity dasar yang sering diabaikan: password hygiene, 2FA, phishing awareness
 
-🔴 **Kamis** · LinkedIn
-**[SEO Bukan Sulap, Tapi Sains](https://linkedin.com/in/seandyarozano)**
-— Banyak yang bayar jutaan ke jasa SEO tanpa tahu yang dibeli. Ini cara kerja SEO yang sebenarnya.
+📸 **Instagram** · Carousel 5 slide
+— Visual breakdown ancaman siber yang relevan untuk pengguna umum
 
-📸 **Rabu & Kamis** · Instagram
-— Carousel "5 Alasan Website Lambat" + IG Story poll dari post LinkedIn
+🧵 **Threads** · Utas Jumat
+— 5 hal basic cybersecurity yang jarang dilakukan, padahal bisa cegah sebagian besar ancaman
 
-✍️ **Sabtu** · Blog
-— Artikel SEO: "Kenapa Website Lambat?" + "SEO untuk Pemula: Panduan Lengkap dari Nol"
+✍️ **Sabtu** · Blog / Medium
+— Artikel cybersecurity untuk pemula
 
 ---
 
@@ -75,7 +73,7 @@ it-insights-notes/
 │   ├── routing-table-explained.md   ✓
 │   └── dns-for-beginners.md         ✓
 └── web-dev/
-    ├── why-websites-are-slow.md     ✓
+    ├── website-performance-notes.md ✓
     └── seo-basics.md                ✓
 ```
 
@@ -133,33 +131,35 @@ it-insights-notes/
 
 <!-- Update setiap Senin dengan konten baru minggu berjalan -->
 
-**Minggu 2 · Website & SEO** *(berjalan)*
-- 💻 **[Mengapa Website Lambat Padahal Internet Kencang?](https://linkedin.com/in/seandyarozano)** — Senin, Minggu 2
-- 🔍 **[SEO Bukan Sulap, Tapi Sains](https://linkedin.com/in/seandyarozano)** — Kamis, Minggu 2
+**Minggu 2 · Website & SEO** *(selesai ✅)*
+- 💻 **[Mengapa Website Lambat Padahal Internet Kencang?](https://linkedin.com/in/seandyarozano)** — LinkedIn + Infografis
+- 📸 **Carousel "5 Alasan Website Lambat"** — Instagram
+- 🧵 **Threads utas Jumat** — Website performance tips
+- ✍️ **Artikel Medium** — Website performance & SEO untuk pemula
 
-**Minggu 1 · Networking** *(selesai)*
+**Minggu 1 · Networking** *(selesai ✅)*
 - 🌐 **[Pelajaran Networking dari Kehidupan Sehari-hari](https://linkedin.com/in/seandyarozano)** — LinkedIn
 - ⚡ **[Cloudflare Down 5,5 Jam — Bukan Di-hack](https://linkedin.com/in/seandyarozano)** — LinkedIn
 - 📝 **[Routing Table Adalah: Pengertian, Fungsi, dan Cara Kerjanya](#)** — Blog
 - 📝 **[Penyebab Cloudflare Down 18 November 2025](#)** — Blog
 
-*Coming soon — Minggu 3: AI & Produktivitas*
-- 🤖 AI tidak menggantikan programmer, tapi...
-- ⚡ Kebiasaan digital yang diam-diam menurunkan produktivitas
+*Coming soon — Minggu 3: Cybersecurity*
+- 🔐 80% insiden siber dimulai dari human error — bukan bug sistem
+- 🎣 Phishing bukan cuma email dari "pangeran Nigeria"
 
-*Coming soon — Minggu 4: Security & Karier IT*
-- 🔐 Hal kecil di kantor yang menunjukkan infrastruktur IT buruk
-- 👨‍💻 Fresh Graduate IT vs Senior Developer
+*Coming soon — Minggu 4: IT Career & Roadmap*
+- 👨‍💻 Roadmap karir IT untuk fresh graduate
+- 🏢 Hal kecil yang menunjukkan infrastruktur IT buruk
 
 ---
 
 ## 🎯 Saat ini saya sedang
 
-- 📚 Membangun **seri konten IT Insights** di LinkedIn & Instagram — 4 tema: Networking · Web Dev · AI · Security
-- ✍️ Menulis **artikel blog SEO** setiap minggu — target page one Google untuk keyword IT Indonesia
+- 📚 Membangun **seri konten IT Insights** di LinkedIn & Instagram — 4 tema: Networking · Web Dev · Cybersecurity · IT Career *(Minggu 1 & 2 selesai)*
+- ✍️ Menulis **artikel Medium** setiap minggu — topik IT yang dijelaskan dengan analogi sehari-hari
 - 🛠️ Mengisi repo **[it-insights-notes](https://github.com/seandyarozano/it-insights-notes)** setiap minggu — catatan teknis IT dalam bahasa sederhana
+- 🧵 Posting **Threads utas** setiap Jumat — satu topik IT, 5 bagian, langsung bisa diaplikasikan
 - 🎬 Menyiapkan konten **YouTube** — tutorial IT untuk pemula dan fresh graduate
-- 🎓 Alumni / Mahasiswa **Telkom University** — Teknik Informatika / Sistem Informasi *(sesuaikan)*
 - 🤝 Terbuka untuk **kolaborasi konten, diskusi IT, dan networking profesional**
 
 ---
