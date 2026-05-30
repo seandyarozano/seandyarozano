@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seandyarozano)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seandyarozano)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@seandyarozano)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@seandyarozano)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seandyarozano)
 
@@ -41,8 +42,12 @@ tagline    : "Teknologi bukan untuk orang IT saja."
 📸 **Instagram** · Carousel 5 slide
 — Visual breakdown ancaman siber yang relevan untuk pengguna umum
 
-🧵 **Threads** · Utas Jumat
-— 5 hal basic cybersecurity yang jarang dilakukan, padahal bisa cegah sebagian besar ancaman
+🧵 **Threads** · Jadwal mingguan
+
+| Hari | Format | Konten |
+|------|--------|--------|
+| Senin–Kamis | Post harian | Breakdown prompt AI + penjelasan kenapa works — format hybrid IT Insights |
+| Jumat | Utas 5 bagian | Rangkuman topik mingguan — Cybersecurity edition |
 
 ✍️ **Sabtu** · Blog / Medium
 — Artikel cybersecurity untuk pemula
@@ -158,7 +163,9 @@ it-insights-notes/
 - 📚 Membangun **seri konten IT Insights** di LinkedIn & Instagram — 4 tema: Networking · Web Dev · Cybersecurity · IT Career *(Minggu 1 & 2 selesai)*
 - ✍️ Menulis **artikel Medium** setiap minggu — topik IT yang dijelaskan dengan analogi sehari-hari
 - 🛠️ Mengisi repo **[it-insights-notes](https://github.com/seandyarozano/it-insights-notes)** setiap minggu — catatan teknis IT dalam bahasa sederhana
-- 🧵 Posting **Threads utas** setiap Jumat — satu topik IT, 5 bagian, langsung bisa diaplikasikan
+- 🧵 Aktif di **Threads** dengan dua format:
+  - **Senin–Kamis** — breakdown prompt AI + konteks IT Insights (format hybrid)
+  - **Jumat** — utas 5 bagian rangkuman topik mingguan
 - 🎬 Menyiapkan konten **YouTube** — tutorial IT untuk pemula dan fresh graduate
 - 🤝 Terbuka untuk **kolaborasi konten, diskusi IT, dan networking profesional**
 
@@ -174,6 +181,7 @@ Punya pertanyaan tentang IT yang ingin saya jelaskan? Atau mau kolaborasi konten
 
 [![LinkedIn DM](https://img.shields.io/badge/DM_di_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seandyarozano)
 [![Instagram DM](https://img.shields.io/badge/DM_di_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seandyarozano)
+[![Threads](https://img.shields.io/badge/Follow_di_Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@seandyarozano)
 [![GitHub](https://img.shields.io/badge/Lihat_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seandyarozano)
 
 </div>
