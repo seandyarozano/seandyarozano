@@ -36,21 +36,22 @@ tagline    : Teknologi bukan untuk orang IT saja.
 
 > **Minggu 3 · Tema: Cybersecurity — keamanan siber bukan hanya urusan IT department**
 
-🔵 **LinkedIn** · Post + Infografis
-— Cybersecurity dasar yang sering diabaikan: password hygiene, 2FA, phishing awareness
+🔵 **LinkedIn** · Post + Infografis + Post Pendek + Post Opini
+— Human element dalam insiden siber, credential stuffing, 5 kebiasaan digital yang diam-diam berbahaya
 
-📸 **Instagram** · Carousel 5 slide
-— Visual breakdown ancaman siber yang relevan untuk pengguna umum
+📸 **Instagram** · Carousel 5 slide + Reels + Infografis
+— Visual breakdown ancaman siber sehari-hari, demo HaveIBeenPwned
 
 🧵 **Threads** · Jadwal mingguan
 
 | Hari | Format | Konten |
 |------|--------|--------|
-| Senin–Kamis | Post harian | Breakdown prompt AI + penjelasan kenapa works — format hybrid IT Insights |
+| Senin–Kamis | Prompt Breakdown (pagi) | Breakdown prompt AI bertema cybersecurity |
+| Selasa & Kamis | Pure-Threads (sore) | Opini & observasi lapangan — implikasi nyata |
 | Jumat | Utas 5 bagian | Rangkuman topik mingguan — Cybersecurity edition |
 
-✍️ **Sabtu** · Blog / Medium
-— Artikel cybersecurity untuk pemula
+✍️ **Sabtu** · Blog Telkom University
+— [Ancaman Siber Sehari-hari yang Sering Kita Abaikan](https://seandyarozano.staff.telkomuniversity.ac.id/ancaman-siber-sehari-hari-yang-sering-kita-abaikan/)
 
 ---
 
@@ -75,11 +76,13 @@ tagline    : Teknologi bukan untuk orang IT saja.
 ```
 it-insights-notes/
 ├── networking/
-│   ├── routing-table-explained.md   ✓
-│   └── dns-for-beginners.md         ✓
-└── web-dev/
-    ├── website-performance-notes.md ✓
-    └── seo-basics.md                ✓
+│   ├── routing-table-explained.md    ✓
+│   └── dns-for-beginners.md          ✓
+├── web-dev/
+│   ├── website-performance-notes.md  ✓
+│   └── seo-basics.md                 ✓
+└── cybersecurity/
+    └── cybersecurity-notes.md        ✓
 ```
 
 ---
@@ -134,39 +137,45 @@ it-insights-notes/
 
 ## 📝 Konten yang sudah dipublish
 
-<!-- Update setiap Senin dengan konten baru minggu berjalan -->
+<!-- Update setiap Sabtu dengan konten minggu yang baru selesai -->
+
+**Minggu 3 · Cybersecurity** *(selesai ✅)*
+- 🔐 **LinkedIn** — Anchor post human element, post pendek credential stuffing, post opini 5 kebiasaan digital berbahaya
+- 📸 **Instagram** — Carousel "SISTEM JEBOL", Reels demo HaveIBeenPwned, Infografis 5 kebiasaan
+- 🧵 **Threads** — Prompt Breakdown harian + Pure-Threads + Utas Jumat [1/5]–[5/5]
+- ✍️ **[Ancaman Siber Sehari-hari yang Sering Kita Abaikan](https://seandyarozano.staff.telkomuniversity.ac.id/ancaman-siber-sehari-hari-yang-sering-kita-abaikan/)** — Blog TU
 
 **Minggu 2 · Website & SEO** *(selesai ✅)*
-- 💻 **[Mengapa Website Lambat Padahal Internet Kencang?](https://linkedin.com/in/seandyarozano)** — LinkedIn + Infografis
-- 📸 **Carousel "5 Alasan Website Lambat"** — Instagram
-- 🧵 **Threads utas Jumat** — Website performance tips
-- ✍️ **Artikel Medium** — Website performance & SEO untuk pemula
+- 💻 **LinkedIn** — Post anchor website lambat + infografis
+- 📸 **Instagram** — Carousel "5 Alasan Website Lambat"
+- 🧵 **Threads** — Utas Jumat website performance tips
+- ✍️ **[Kenapa Website Lambat Padahal Internet Kencang? Ini 5 Penyebabnya](https://seandyarozano.staff.telkomuniversity.ac.id/kenapa-website-lambat-padahal-internet-kencang-ini-5-penyebabnya/)** — Blog TU
 
 **Minggu 1 · Networking** *(selesai ✅)*
-- 🌐 **[Pelajaran Networking dari Kehidupan Sehari-hari](https://linkedin.com/in/seandyarozano)** — LinkedIn
-- ⚡ **[Cloudflare Down 5,5 Jam — Bukan Di-hack](https://linkedin.com/in/seandyarozano)** — LinkedIn
-- 📝 **[Routing Table Adalah: Pengertian, Fungsi, dan Cara Kerjanya](#)** — Blog
-- 📝 **[Penyebab Cloudflare Down 18 November 2025](#)** — Blog
+- 🌐 **LinkedIn** — Post anchor networking + post Cloudflare down
+- 📸 **Instagram** — Carousel networking + Carousel Cloudflare
+- ✍️ **[Routing Table Adalah: Pengertian, Fungsi, dan Cara Kerjanya](https://seandyarozano.staff.telkomuniversity.ac.id/routing-table-adalah-pengertian-fungsi-dan-cara-kerjanya-di-jaringan-komputer/)** — Blog TU
+- ✍️ **[Penyebab Cloudflare Down 18 November 2025](https://seandyarozano.staff.telkomuniversity.ac.id/penyebab-cloudflare-down-18-november-2025-bukan-serangan-hanya-satu-file-yang-membengkak/)** — Blog TU
 
-*Coming soon — Minggu 3: Cybersecurity*
-- 🔐 80% insiden siber dimulai dari human error — bukan bug sistem
-- 🎣 Phishing bukan cuma email dari "pangeran Nigeria"
+*Coming soon — Minggu 4: AI & Produktivitas*
+- 🤖 AI sebagai tools, bukan pengganti manusia
+- ✍️ Prompt engineering = skill komunikasi ke mesin
 
-*Coming soon — Minggu 4: IT Career & Roadmap*
-- 👨‍💻 Roadmap karir IT untuk fresh graduate
-- 🏢 Hal kecil yang menunjukkan infrastruktur IT buruk
+*Coming soon — Minggu 5: IT Career & Fresh Graduate*
+- 👨‍💻 Fresh graduate IT vs senior developer — bukan soal skill, tapi mindset
+- 🗺️ Roadmap karir IT untuk yang baru mulai
 
 ---
 
 ## 🎯 Saat ini saya sedang
 
-- 📚 Membangun **seri konten IT Insights** di LinkedIn & Instagram — 4 tema: Networking · Web Dev · Cybersecurity · IT Career *(Minggu 1 & 2 selesai)*
-- ✍️ Menulis **artikel Medium** setiap minggu — topik IT yang dijelaskan dengan analogi sehari-hari
+- 📚 Membangun **seri konten IT Insights** di LinkedIn, Instagram & Threads — 5 tema: Networking · Web Dev · Cybersecurity · AI & Produktivitas · IT Career *(Minggu 1–3 selesai)*
+- ✍️ Menulis **artikel blog** setiap Sabtu di [seandyarozano.staff.telkomuniversity.ac.id](https://seandyarozano.staff.telkomuniversity.ac.id) — topik IT yang dijelaskan dengan analogi sehari-hari
 - 🛠️ Mengisi repo **[it-insights-notes](https://github.com/seandyarozano/it-insights-notes)** setiap minggu — catatan teknis IT dalam bahasa sederhana
-- 🧵 Aktif di **Threads** dengan dua format:
-  - **Senin–Kamis** — breakdown prompt AI + konteks IT Insights (format hybrid)
-  - **Jumat** — utas 5 bagian rangkuman topik mingguan
-- 🎬 Menyiapkan konten **YouTube** — tutorial IT untuk pemula dan fresh graduate
+- 🧵 Aktif di **Threads** dengan tiga format:
+  - **Senin–Kamis pagi** — Prompt Breakdown: breakdown prompt AI + konteks IT Insights
+  - **Selasa & Kamis sore** — Pure-Threads: opini & observasi lapangan dari dunia IT nyata
+  - **Jumat** — Utas 5 bagian: rangkuman topik mingguan
 - 🤝 Terbuka untuk **kolaborasi konten, diskusi IT, dan networking profesional**
 
 ---
