@@ -26,24 +26,24 @@ tagline    : Teknologi bukan untuk orang IT saja.
 
 ## 📌 Konten minggu ini
 
-> **Minggu 4 · Tema: AI & Produktivitas — kualitas output AI = kualitas brief, bukan pilihan tools**
+> **Minggu 5 · Tema: IT Career & Fresh Graduate — karir IT bukan soal pengalaman, tapi arah yang jelas**
 
 🔵 **LinkedIn** · Post + Infografis + Post Pendek + Post Opini
-— Transformation story dashboard monitoring kinerja tim, prompt engineering sebagai skill komunikasi, opini AI & produktivitas
+— Fresh graduate IT yang melampaui ekspektasi, skill IT yang benar-benar dibutuhkan dunia kerja, opini IT Career
 
 📸 **Instagram** · Carousel 5 slide + Reels + Infografis
-— 5 Tools AI yang benar-benar kerja, demo AI tool produktivitas, ringkasan AI & produktivitas
+— "BUKAN SOAL PENGALAMAN.", tips karir fresh graduate IT, ringkasan IT Career
 
 🧵 **Threads** · Jadwal mingguan
 
 | Hari           | Format                  | Konten                                              |
 | -------------- | ----------------------- | --------------------------------------------------- |
-| Senin–Kamis    | Prompt Breakdown (pagi) | Breakdown prompt AI bertema brief & komunikasi profesional |
-| Selasa & Kamis | Pure-Threads (sore)     | Opini & observasi lapangan — implikasi nyata        |
-| Jumat          | Utas 5 bagian           | Rangkuman topik mingguan — AI & Produktivitas edition |
+| Senin–Kamis    | Prompt Breakdown (pagi) | Breakdown prompt AI bertema karir IT & fresh graduate |
+| Selasa & Kamis | Pure-Threads (sore)     | Opini & observasi lapangan — realita karir IT vs ekspektasi kampus |
+| Jumat          | Utas 5 bagian           | Rangkuman topik mingguan — IT Career edition |
 
 ✍️ **Sabtu** · Blog Telkom University
-— [Cara Brief AI yang Efektif: Bukan Soal Toolsnya, tapi Cara Kamu Ngomong ke AI](https://seandyarozano.staff.telkomuniversity.ac.id)
+— [Karir IT untuk Fresh Graduate: Panduan Lengkap Memulai](https://seandyarozano.staff.telkomuniversity.ac.id)
 
 ---
 
@@ -76,8 +76,10 @@ it-insights-notes/
 │   └── seo-basics.md                 ✓
 ├── cybersecurity/
 │   └── cybersecurity-notes.md        ✓
-└── ai-productivity/
-    └── ai-productivity-notes.md      ✓
+├── ai-productivity/
+│   └── ai-productivity-notes.md      ✓
+└── career/
+    └── career-notes.md               ✓
 ```
 
 ---
@@ -114,6 +116,13 @@ it-insights-notes/
 
 ## 📝 Konten yang sudah dipublish
 
+**Minggu 5 · IT Career & Fresh Graduate** *(selesai ✅)*
+
+- 👨‍💻 **LinkedIn** — Anchor post fresh graduate IT melampaui ekspektasi, post pendek skill IT dunia kerja, post opini IT Career
+- 📸 **Instagram** — Carousel "BUKAN SOAL PENGALAMAN.", Infografis IT Career
+- 🧵 **Threads** — Prompt Breakdown harian + Pure-Threads + Utas Jumat [1/5]–[5/5]
+- ✍️ **[Karir IT untuk Fresh Graduate: Panduan Lengkap Memulai](https://seandyarozano.staff.telkomuniversity.ac.id)** — Blog TU
+
 **Minggu 4 · AI & Produktivitas** *(selesai ✅)*
 
 - 🤖 **LinkedIn** — Anchor post dashboard monitoring kinerja tim via AI, post pendek prompt engineering, post opini AI & produktivitas
@@ -142,16 +151,13 @@ it-insights-notes/
 - ✍️ **[Routing Table Adalah: Pengertian, Fungsi, dan Cara Kerjanya](https://seandyarozano.staff.telkomuniversity.ac.id/routing-table-adalah-pengertian-fungsi-dan-cara-kerjanya-di-jaringan-komputer/)** — Blog TU
 - ✍️ **[Penyebab Cloudflare Down 18 November 2025](https://seandyarozano.staff.telkomuniversity.ac.id/penyebab-cloudflare-down-18-november-2025-bukan-serangan-hanya-satu-file-yang-membengkak/)** — Blog TU
 
-*Coming soon — Minggu 5: IT Career & Fresh Graduate*
-
-- 👨‍💻 Fresh graduate IT vs senior developer — bukan soal skill, tapi mindset
-- 🗺️ Roadmap karir IT untuk yang baru mulai
+*Coming soon — Minggu 6: Networking & Infrastructure (Pendalaman · Siklus 2)*
 
 ---
 
 ## 🎯 Saat ini saya sedang
 
-- 📚 Membangun **seri konten IT Insights** di LinkedIn, Instagram & Threads — 5 tema: Networking · Web Dev · Cybersecurity · AI & Produktivitas · IT Career *(Minggu 1–4 selesai)*
+- 📚 Membangun **seri konten IT Insights** di LinkedIn, Instagram & Threads — 5 tema: Networking · Web Dev · Cybersecurity · AI & Produktivitas · IT Career *(Siklus 1 Minggu 1–5 selesai ✅)*
 - ✍️ Menulis **artikel blog** setiap Sabtu di [seandyarozano.staff.telkomuniversity.ac.id](https://seandyarozano.staff.telkomuniversity.ac.id) — topik IT yang dijelaskan dengan analogi sehari-hari
 - 🛠️ Mengisi repo **[it-insights-notes](https://github.com/seandyarozano/it-insights-notes)** setiap minggu — catatan teknis IT dalam bahasa sederhana
 - 🧵 Aktif di **Threads** dengan tiga format:
