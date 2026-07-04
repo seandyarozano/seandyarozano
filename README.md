@@ -26,24 +26,24 @@ tagline    : Teknologi bukan untuk orang IT saja.
 
 ## 📌 Konten minggu ini
 
-> **Minggu 6 · Tema: Networking & Infrastruktur Pendalaman — dari ISP-blame sampai mitos jaringan kantor yang masih dipercaya**
+> **Minggu 7 · Tema: Website & Web Dev Pendalaman — audit Core Web Vitals langsung di website kampus sendiri**
 
-🔵 **LinkedIn** · Post + Infografis + Post Pendek + Post Opini
-— ISP-blame reflex & cara diagnosis yang benar, monitoring aktif PRTG + Telegram bot 4 kampus, 5 mitos jaringan kantor
+🔵 **LinkedIn** · Post Anchor + Post Pendek + Post Opini
+— Core Web Vitals (LCP, INP, CLS), performa website dari dua tools berbeda, insight dari audit nyata
 
 📸 **Instagram** · Carousel 5 slide + Reels + Infografis
-— Case study switch distribusi EOL, monitoring jaringan aktif, "5 MITOS JARINGAN KANTOR"
+— LCP/INP/CLS dalam analogi sehari-hari, hasil Lighthouse & GTmetrix website kampus
 
 🧵 **Threads** · Jadwal mingguan
 
-| Hari           | Format                  | Konten                                                        |
-| -------------- | ----------------------- | ------------------------------------------------------------- |
-| Senin–Kamis    | Prompt Breakdown (pagi) | Breakdown prompt AI bertema networking pendalaman             |
-| Selasa & Kamis | Pure-Threads (sore)     | Observasi lapangan & realita vs ekspektasi jaringan kantor    |
-| Jumat          | Utas 5 bagian           | Rangkuman topik mingguan — 5 Mitos Jaringan Kantor edition    |
+| Hari           | Format                  | Konten                                                              |
+| -------------- | ----------------------- | ------------------------------------------------------------------- |
+| Senin–Kamis    | Tools Breakdown (pagi)  | Breakdown tools audit performa web: Lighthouse, GTmetrix, PageSpeed |
+| Selasa & Kamis | Pure-Threads (sore)     | Observasi lapangan & realita vs ekspektasi performa website         |
+| Jumat          | Utas 5 bagian           | Rangkuman topik mingguan — Core Web Vitals edition                  |
 
 ✍️ **Sabtu** · Blog Telkom University
-— [5 Mitos tentang Jaringan Kantor yang Masih Dipercaya Banyak Orang](https://seandyarozano.staff.telkomuniversity.ac.id)
+— [Core Web Vitals: Saya Cek Sendiri Skor Website Kampus](https://seandyarozano.staff.telkomuniversity.ac.id)
 
 ---
 
@@ -74,7 +74,8 @@ it-insights-notes/
 │   └── week6-networking-pendalaman.md    ✓
 ├── web-dev/
 │   ├── website-performance-notes.md      ✓
-│   └── seo-basics.md                     ✓
+│   ├── seo-basics.md                     ✓
+│   └── week7-webdev-pendalaman.md        ✓
 ├── cybersecurity/
 │   └── cybersecurity-notes.md            ✓
 ├── ai-productivity/
@@ -116,6 +117,13 @@ it-insights-notes/
 ---
 
 ## 📝 Konten yang sudah dipublish
+
+**Minggu 7 · Website & Web Dev Pendalaman** *(selesai ✅)*
+
+- 💻 **LinkedIn** — Anchor post Core Web Vitals (LCP, INP, CLS), post pendek audit Lighthouse & GTmetrix, post opini performa website
+- 📸 **Instagram** — Carousel LCP/INP/CLS dalam analogi sehari-hari, Reels cek skor website sendiri, Infografis Core Web Vitals
+- 🧵 **Threads** — Tools Breakdown harian + Pure-Threads + Utas Jumat [1/5]–[5/5]
+- ✍️ **[Core Web Vitals: Saya Cek Sendiri Skor Website Kampus](https://seandyarozano.staff.telkomuniversity.ac.id)** — Blog TU
 
 **Minggu 6 · Networking & Infrastruktur Pendalaman** *(selesai ✅)*
 
@@ -159,17 +167,17 @@ it-insights-notes/
 - ✍️ **[Routing Table Adalah: Pengertian, Fungsi, dan Cara Kerjanya](https://seandyarozano.staff.telkomuniversity.ac.id/routing-table-adalah-pengertian-fungsi-dan-cara-kerjanya-di-jaringan-komputer/)** — Blog TU
 - ✍️ **[Penyebab Cloudflare Down 18 November 2025](https://seandyarozano.staff.telkomuniversity.ac.id/penyebab-cloudflare-down-18-november-2025-bukan-serangan-hanya-satu-file-yang-membengkak/)** — Blog TU
 
-*Coming soon — Minggu 7: Website & Web Dev (Pendalaman · Siklus 2)*
+*Coming soon — Minggu 8: Cybersecurity Pendalaman (Siklus 2)*
 
 ---
 
 ## 🎯 Saat ini saya sedang
 
-- 📚 Membangun **seri konten IT Insights** di LinkedIn, Instagram & Threads — 5 tema: Networking · Web Dev · Cybersecurity · AI & Produktivitas · IT Career *(Siklus 2 berjalan — Minggu 6 selesai ✅)*
+- 📚 Membangun **seri konten IT Insights** di LinkedIn, Instagram & Threads — 5 tema: Networking · Web Dev · Cybersecurity · AI & Produktivitas · IT Career *(Siklus 2 berjalan — Minggu 7 selesai ✅)*
 - ✍️ Menulis **artikel blog** setiap Sabtu di [seandyarozano.staff.telkomuniversity.ac.id](https://seandyarozano.staff.telkomuniversity.ac.id) — topik IT yang dijelaskan dengan analogi sehari-hari
 - 🛠️ Mengisi repo **[it-insights-notes](https://github.com/seandyarozano/it-insights-notes)** setiap minggu — catatan teknis IT dalam bahasa sederhana
 - 🧵 Aktif di **Threads** dengan tiga format:
-  * **Senin–Kamis pagi** — Prompt Breakdown: breakdown prompt AI + konteks IT Insights
+  * **Senin–Kamis pagi** — Tools Breakdown: breakdown tools IT nyata + langkah implementasi
   * **Selasa & Kamis sore** — Pure-Threads: opini & observasi lapangan dari dunia IT nyata
   * **Jumat** — Utas 5 bagian: rangkuman topik mingguan
 - 🤝 Terbuka untuk **kolaborasi konten, diskusi IT, dan networking profesional**
