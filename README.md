@@ -26,24 +26,24 @@ tagline    : Teknologi bukan untuk orang IT saja.
 
 ## 📌 Konten minggu ini
 
-> **Minggu 7 · Tema: Website & Web Dev Pendalaman — audit Core Web Vitals langsung di website kampus sendiri**
+> **Minggu 8 · Tema: Cybersecurity Pendalaman — kebiasaan keamanan siber sehari-hari yang sering diabaikan**
 
 🔵 **LinkedIn** · Post Anchor + Post Pendek + Post Opini
-— Core Web Vitals (LCP, INP, CLS), performa website dari dua tools berbeda, insight dari audit nyata
+— VirusTotal & human element, kebiasaan update software, 5 kebiasaan keamanan siber yang bikin rentan
 
 📸 **Instagram** · Carousel 5 slide + Reels + Infografis
-— LCP/INP/CLS dalam analogi sehari-hari, hasil Lighthouse & GTmetrix website kampus
+— Celah yang sering diabaikan, update software jangan ditunda, 5 kebiasaan keamanan siber (recap mingguan)
 
 🧵 **Threads** · Jadwal mingguan
 
 | Hari           | Format                  | Konten                                                              |
-| -------------- | ----------------------- | ------------------------------------------------------------------- |
-| Senin–Kamis    | Tools Breakdown (pagi)  | Breakdown tools audit performa web: Lighthouse, GTmetrix, PageSpeed |
-| Selasa & Kamis | Pure-Threads (sore)     | Observasi lapangan & realita vs ekspektasi performa website         |
-| Jumat          | Utas 5 bagian           | Rangkuman topik mingguan — Core Web Vitals edition                  |
+| -------------- | ----------------------- | ----------------------------------------------------------------- |
+| Senin–Kamis    | Tools Breakdown (pagi)  | VirusTotal, chrome://settings/help, chrome://extensions, Google Safe Browsing test page |
+| Selasa & Kamis | Pure-Threads (sore)     | Observasi lapangan & realita vs ekspektasi kebiasaan keamanan siber |
+| Jumat          | Utas 5 bagian           | Rangkuman topik mingguan — Cybersecurity Pendalaman edition        |
 
 ✍️ **Sabtu** · Blog Telkom University
-— [Core Web Vitals: Saya Cek Sendiri Skor Website Kampus](https://seandyarozano.staff.telkomuniversity.ac.id)
+— [5 Kebiasaan Keamanan Siber yang Sering Diabaikan](https://seandyarozano.staff.telkomuniversity.ac.id)
 
 ---
 
@@ -77,7 +77,7 @@ it-insights-notes/
 │   ├── seo-basics.md                     ✓
 │   └── week7-webdev-pendalaman.md        ✓
 ├── cybersecurity/
-│   └── cybersecurity-notes.md            ✓
+│   └── cybersecurity-notes.md            ✓ (konsolidasi Minggu 3 + 8)
 ├── ai-productivity/
 │   └── ai-productivity-notes.md          ✓
 └── career/
@@ -117,6 +117,13 @@ it-insights-notes/
 ---
 
 ## 📝 Konten yang sudah dipublish
+
+**Minggu 8 · Cybersecurity Pendalaman** *(selesai ✅)*
+
+- 🔐 **LinkedIn** — Anchor post VirusTotal & human element, post pendek kebiasaan update software, post opini 5 kebiasaan keamanan siber
+- 📸 **Instagram** — Carousel "CELAH YANG SERING DIABAIKAN — 3 FAKTA", Reels "UPDATE. JANGAN TUNDA.", Infografis 5 kebiasaan keamanan siber
+- 🧵 **Threads** — Tools Breakdown harian (VirusTotal, chrome settings, chrome extensions, Google Safe Browsing) + Pure-Threads + Utas Jumat [1/5]–[5/5]
+- ✍️ **[5 Kebiasaan Keamanan Siber yang Sering Diabaikan](https://seandyarozano.staff.telkomuniversity.ac.id)** — Blog TU
 
 **Minggu 7 · Website & Web Dev Pendalaman** *(selesai ✅)*
 
@@ -167,13 +174,13 @@ it-insights-notes/
 - ✍️ **[Routing Table Adalah: Pengertian, Fungsi, dan Cara Kerjanya](https://seandyarozano.staff.telkomuniversity.ac.id/routing-table-adalah-pengertian-fungsi-dan-cara-kerjanya-di-jaringan-komputer/)** — Blog TU
 - ✍️ **[Penyebab Cloudflare Down 18 November 2025](https://seandyarozano.staff.telkomuniversity.ac.id/penyebab-cloudflare-down-18-november-2025-bukan-serangan-hanya-satu-file-yang-membengkak/)** — Blog TU
 
-*Coming soon — Minggu 8: Cybersecurity Pendalaman (Siklus 2)*
+*Coming soon — Minggu 9: AI & Produktivitas Pendalaman (Siklus 2)*
 
 ---
 
 ## 🎯 Saat ini saya sedang
 
-- 📚 Membangun **seri konten IT Insights** di LinkedIn, Instagram & Threads — 5 tema: Networking · Web Dev · Cybersecurity · AI & Produktivitas · IT Career *(Siklus 2 berjalan — Minggu 7 selesai ✅)*
+- 📚 Membangun **seri konten IT Insights** di LinkedIn, Instagram & Threads — 5 tema: Networking · Web Dev · Cybersecurity · AI & Produktivitas · IT Career *(Siklus 2 berjalan — Minggu 8 selesai ✅)*
 - ✍️ Menulis **artikel blog** setiap Sabtu di [seandyarozano.staff.telkomuniversity.ac.id](https://seandyarozano.staff.telkomuniversity.ac.id) — topik IT yang dijelaskan dengan analogi sehari-hari
 - 🛠️ Mengisi repo **[it-insights-notes](https://github.com/seandyarozano/it-insights-notes)** setiap minggu — catatan teknis IT dalam bahasa sederhana
 - 🧵 Aktif di **Threads** dengan tiga format:
